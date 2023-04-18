@@ -1,5 +1,5 @@
 Package: epidict
-Title: Epidemiology data dictionaries and random data generators
+Title: Epidemiology data dictionaries and random data generatorss
 Version: 0.0.0.9001
 Authors@R: c(
     person(given = "Alexander",
